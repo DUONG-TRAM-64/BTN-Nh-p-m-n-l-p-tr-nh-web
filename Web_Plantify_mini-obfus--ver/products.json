@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name":" Xương rồng tròn",
+        "price": 50000,
+        "image": "static/img/product1.png"
+    },
+    {
+        "id": 2,
+        "name":" Lưỡi hổ lá bầu",
+        "price": 60000,
+        "image": "static/img/product2.png"
+    },
+    {
+        "id": 3,
+        "name":" Trầu bà",
+        "price": 40000,
+        "image": "static/img/product3.png"
+    },
+    {
+        "id": 4,
+        "name":" Xương rồng tai thỏ",
+        "price": 45000,
+        "image": "static/img/product4.png"
+    },
+    {
+        "id": 5,
+        "name":" Cây lan",
+        "price": 100000,
+        "image": "static/img/product5.png"
+    },
+    {
+        "id": 6,
+        "name":" Cây ngà voi",
+        "price": 70000,
+        "image": "static/img/product6.png"
+    },
+    {
+        "id": 7,
+        "name":" Cây lá sọc dưa",
+        "price": 65000,
+        "image": "static/img/product7.png"
+    },
+    {
+        "id": 8,
+        "name":" Cây chuỗi ngọc",
+        "price": 50000,
+        "image": "static/img/product8.png"
+    }
+    
+
+]
